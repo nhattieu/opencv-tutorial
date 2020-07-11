@@ -1,5 +1,4 @@
 import cv2
-import numpy as np
 
 def write_img(src, des):
 
@@ -17,5 +16,20 @@ def write_img(src, des):
         cv2.destroyAllWindows()
 
 src = './assets/images/lena.jpg'
-des = './assets/images/lena_copy.png'
+des = './assets/images/lena-copy.png'
 write_img(src, des)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
